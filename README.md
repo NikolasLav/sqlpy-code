@@ -1,3 +1,3 @@
 # sqlpy-code
 
-Листинги кода и инструкции
+Д/з по ORM SQLAlchemy pd-cp-3 Л.Н.М.
